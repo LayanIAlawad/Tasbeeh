@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# tasbeeh
+# Tasbeeh APP
 
-A new Flutter project.
+A simple Flutter tasbeeh app
+- Tap to increase the counter ⚡️
+- Press reset to go back to zero 🔄
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Tasbeeh
->>>>>>> 9729478aa0a242445eb16c748df4f47a5810479d
+![Tasbeeh App Screenshot](Tasbeeh.png)
