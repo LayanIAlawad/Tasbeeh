@@ -1,6 +1,6 @@
 # Tasbeeh APP
 
-A simple Flutter tasbeeh app
+ A simple Flutter tasbeeh app
 - Tap to increase the counter ⚡️
 - Press reset to go back to zero 🔄
 
